@@ -5,3 +5,5 @@ This is a test line for Git conflict: main branch
 This is another change happening before a push
 
 This is another change in the new branch
+
+New change: test branch
